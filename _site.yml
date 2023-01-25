@@ -3,6 +3,7 @@ title: "Sotaire's website"
 description: |
   Sotaire's website
 output_dir: "docs"
+theme: my theme.css
 navbar:
   right:
     - text: "Home"
