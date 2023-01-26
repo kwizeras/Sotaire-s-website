@@ -6,8 +6,8 @@ output_dir: "docs"
 theme: my theme.css
 navbar:
   right:
-    - text: "Home"
+    - text: "Projects"
       href: index.html
-    - text: "About"
+    - text: "Portfolio"
       href: about.html
 output: distill::distill_article
