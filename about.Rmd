@@ -30,7 +30,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <style>
 body {
-  background-image: url("blackblue.png");
+  background-image: url("images/blackblue.png");
   background-size: 15% 100%;
   background-repeat: no-repeat;
   background-position: left top;

@@ -36,7 +36,7 @@ title: "Gallery"
 
 <style>
 body {
-  background-image: url("blackblue.png");
+  background-image: url("images/blackblue.png");
   background-size: 15% 100%;
   background-repeat: no-repeat;
   background-position: left top;
@@ -56,19 +56,19 @@ Write a brief description
 
 <div class="gallery">
   <figure>
-    <img src="casual2.jpg">
+    <img src="images/casual2.jpg">
     <figcaption>Dr. Volker and his taking a driving break on their way to Blacksburg, Virginia</figcaption>
   </figure>
   <figure>
-    <img src="casual4.jpg">
+    <img src="images/casual4.jpg">
     <figcaption>Caption for Image 2</figcaption>
   </figure>
   <figure>
-    <img src="casual5.jpg">
+    <img src="images/casual5.jpg">
     <figcaption>Caption for Image 3</figcaption>
   </figure>
   <figure>
-    <img src="casual3jpg.jpg">
+    <img src="images/casual3jpg.jpg">
     <figcaption>Caption for Image 3</figcaption>
   </figure>
 </div>
@@ -78,11 +78,11 @@ Write a brief description
 
 <div class="gallery">
   <figure>
-    <img src="adventure1.jpg">
+    <img src="images/adventure1.jpg">
     <figcaption>VT famous Duck Pond / Photo by Sotaire Kwizera </figcaption>
   </figure>
   <figure>
-    <img src="adventure2.jpg">
+    <img src="images/adventure2.jpg">
     <figcaption>VT Duck Pond</figcaption>
   </figure>
  
