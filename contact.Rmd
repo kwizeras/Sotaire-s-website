@@ -1,0 +1,74 @@
+---
+title: "Terms & Conditions"
+---
+<style>
+#topbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: none;
+  padding: 10px;
+}
+#topbar a {
+  margin: 0 10px;
+}
+</style>
+
+<div id="topbar">
+  <a href="#Acceptance-of-Terms">Acceptance of Terms</a>
+  <a href="#Use-of-Content">Use of Content</a>
+  <a href="#Third-Party-Links">Third-Party Links</a>
+</div>
+
+<style>
+body {
+  background-image: url("blackblue.png");
+  background-size: 15% 100%;
+  background-repeat: no-repeat;
+  background-position: left top;
+}
+.address-line {
+  display: flex;
+  justify-content: center;
+}
+</style>
+
+These terms and conditions govern your use of our website content. By accessing or using our website, you agree to be bound by these terms and conditions. Please read them carefully. 
+
+## Acceptance of Terms <a name="Acceptance-of-Terms"></a>
+
+By using our website, you acknowledge that you have read, understood, and agree to be bound by these terms and conditions, as well as any additional guidelines or rules that we may provide on our website.
+
+## Use of Content <a name="Use-of-Content"></a>
+
+1. All materials on this website are common resources. 
+2. You may modify, reproduce, and distribute the content only for educational and non commercial purposes as long as you properly cite the source.
+
+    + Accepted citation: Kwizera Sotaire. "Title of the Page." Sotaire's website, Date of Publication, URL.
+
+3. Your use of our website is at your own risk.
+4. We make no warranties about the accuracy, reliability, completeness of the content on our website.
+3. You agree not to engage in any activity that may:
+
+    + Violate any applicable laws or regulations.
+    + Infringe upon the rights of others.
+    + Interfere with or disrupt the operation of our website.
+    + Transmit or distribute viruses or any harmful or destructive code.
+    + Collect or store personal information about others without their consent.
+
+## Third-Party Links <a name="Third-Party-Links"></a>
+
+Our website may contain links to third-party websites or resources. We do not endorse and are not responsible for the availability, accuracy, or content of such websites. Your use of third-party websites is at your own risk.
+
+
+
+
+
+
+
+
+<div class="address-line">
+  <span style="background-color: #0F2E3D; color: white; font-size: 10px;">101 Chestnut Street  / CPO: 779 / </span>
+  <span style="background-color: #0F2E3D; color: white; font-size: 10px;">Berea, KY, 40404 / </span>
+  [<span style="background-color: #0F2E3D; color: white; font-size: 10px;">(859) 979-6935</span>](tel:+1234567890)
+</div>

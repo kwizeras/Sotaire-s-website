@@ -1,10 +1,133 @@
 ---
-title: "About this site"
-description: |
-  Some additional details about the website
+title: "Portfolio"
+
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+<style>
+#topbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: none;
+  padding: 7px;
+}
+#topbar a {
+  margin: 0 10px;
+}
+</style>
+<div id="topbar">
+  
+  <a href="#Education">Education</a>
+  <a href="#Work-Experience">Work Experience</a>
+  <a href="#Extracurricular-Activities">Extracurricular Activities</a>
+  <a href="#Skills">Skills</a>
+  <a href="Sotaire's Resume.pdf" download>Résumé/pdf</a> <!-- Added the link to your PDF -->
+</div>
+
+<style>
+body {
+  background-image: url("blackblue.png");
+  background-size: 15% 100%;
+  background-repeat: no-repeat;
+  background-position: left top;
+}
+.address-line {
+  display: flex;
+  justify-content: center;
+}
+</style>
+
+
+## Education <a name="Education"></a>
+
+**Degrees:** BA of Economics & Computer Science
+
+**Concentration:** Models & Methods
+
+**Relevant Courses:** Econometrics, Applied Statistics, Data Structures, Calculus I&II, Differential Equations, Intermediate Macroeconomics, International Trade and Policy
+
+**Expected Graduation:** May 2025
+
+**School:** Berea College – Berea, KY
+
+**GPA** 3.83
+
+**Honors:** Dean’s List for Academic Achievement, Spring 2022, 2023
+
+## Work Experience  <a name="Work-Experience"></a>
+
+**Data Science Research Intern**
+
+> **DSPG Program at Virginia Tech - Blacksburg, VA**
+
+ >> * Did research on ..
+ >> * Did
+ >> * Did
+
+**Teaching Assistant**
+
+> **Berea College Economics and Business Department – Berea, KY**
+
+ >> * Tutored 25 students in principles of Microeconomics by helping them understand concepts taught in class, complete homework, and prepare for exams
+ >> * Graded homework assignments using the learning management system, Moodle, giving students feedback and helping reinforce course concepts
+ >> *	Hosted two midterm review sessions to re-teach and strengthen students’ knowledge before midterm exams 
+
+**Office Assistant**
+
+> **Berea College Student Financial Aid Services – Berea, KY**
+
+ >> *	Provided front-line customer service to 1,600 students who needed financial aid services by answering phone calls, emails, and scheduling appointments for six Financial Aid professionals 
+ >> *	Managed confidential financial documents, including scanning student and family tax information into the enterprise management system, Banner, and the Banner Document Management system (BDM)
+
+
+## Extracurricular Activities <a name="Extracurricular-Activities"></a>
+
+**Co-Founder & Secretary**
+> **Berea College Economic Association (BEA) - Berea, KY**
+
+>> *	Collaborated to create a student organization to promote the study of economics on campus and motivate students to participate in activities that show the contributions of economics to daily lives
+>> *	Planned our field trip to Cincinnati, OH, for ten people
+
+> **Co-Founder, TotaharaBurundi Environmental Association – Burundi**
+
+>> *	Organized weekly Tanganyika beach cleanup and annual tree-planting campaigns to promote environmentalism in Bujumbura
+>> *	Taught recycling to local community members to promote healthy waste disposal methods in the community
+
+> **President, Xaveri Movement – Burundi** 	
+
+>> *	Led a charitable initiative to provide necessities (food, hygiene supplies, clothing) and home repairs to 10+ families in needy conditions
+ 
+
+## Skills <a name="Skills"></a>
+
+**Technical:** 
+
+>> * R- Programming (Git/GitHub, Web scraping, Rshiny, Rmarkdown, Data manipulation and Visualization)
+>> * Biginner in Python (Problem solving, familiar with Turtle library, Dictionaries, Classes, TKinter)
+>> * Survey Design and Analysis (Cleaned and Reshaped the BIHS Survey data for my team project at DSPG VT)
+>> * Microsoft Office Suite(Execel, PPT, Outlook, )
+
+**Languages:** 
+
+>> * Full Proficiency: English, French,
+>> * Elementary Proficiency: Swahili,
+>> * Native: Kirundi/Kinyarwanda
+
+**Interpersonal:**
+
+>> * Value teamwork, 
+>> * Organized, 
+>> * Creative,
+>> * Always willing to learn
+
+
+ <div class="address-line">
+  <span style="background-color: #0F2E3D; color: white; font-size: 10px;">101 Chestnut Street  / CPO: 779 / </span>
+  <span style="background-color: #0F2E3D; color: white; font-size: 10px;">Berea, KY, 40404 / </span>
+  [<span style="background-color: #0F2E3D; color: white; font-size: 10px;">(859) 979-6935</span>](tel:+1234567890)
+</div>
 

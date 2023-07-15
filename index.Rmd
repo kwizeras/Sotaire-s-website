@@ -1,6 +1,6 @@
 ---
 title: "Sotaire Kwizera"
-image: "images/pic.jpeg"
+image: "Screenshot_20230603-223239.png"
 links:
   - label: '<i class="fab fa-linkedin"></i> LinkedIn'
     url: 'https://www.linkedin.com/in/sotaire-kw%C3%AEz%C4%93ra/ target="_blank"'
@@ -11,34 +11,50 @@ links:
 output:
   postcards::trestles
 site: distill::distill_website 
----
- 
-## Bio
 
-I am Sotaire Kwizera from Burundi, one of the poorest countries in the world. Life hardships have taught me that getting educated is the only promising way out of poverty. I believe in the power of numbers to make this world an inclusive and welcoming place to everybody. I want to use my passion for economics and data analytics to develop innovative ideas to boost developing countries' living standards and achieve sustainable development. As I progress in my higher education journey, I am open to any internship, research, and job opportunities that would help me acquire professional experience and step closer to fulfilling my dreams.
+---
+
+<style>
+body {
+  background-image: url("data.jpg");
+  background-size: 41.7% 100%;
+  background-repeat: no-repeat;
+  background-position: left top;
+}
+
+.address-line {
+  display: flex;
+  justify-content: center;
+}
+</style>
+
+ 
+## Biography
+
+Coming from Burundi, one of the world's poorest countries, I embarked on a remarkable journey as a first-generation college student fueled by a relentless determination to pursue higher education. My background and experiences have only intensified my passion for utilizing technology, particularly data analytics and modeling, to advocate for rural and marginalized communities. Throughout my academic journey, I have actively engaged in research projects and undertaken extracurricular activities that empower these communities, all while staying abreast of the rapidly evolving field of technology.
+
+As I progress in my higher education journey, I am now eagerly seeking any opportunity for internships, research positions, or jobs that can provide me with the valuable professional experience I need. I am confident that these experiences will not only enrich my skills but also enable me to make a meaningful impact on the lives of underserved populations.
 
 ## Education
 
-**Berea College** | Berea, KY
+Berea College | Berea, KY
 
-Major: Economics/ Methods and Models
-       
-Minor: Computer Science
+Major: Economics / Computer Science
+
+Concentration: Data analytics and Modeling
+
+<img src="mtr2.webp" alt="Sotaire Kwizera" width="110" height="110">
 
 
-## Experience
 
-**Office Assistant / Berea College Student Financial Aid  **| Berea, KY
 
-**Teaching Assistant / Berea College Economics and Business Department  **| Berea, KY
 
-<div class="license">
-**License and Citation:** You can use, modify, and adapt any of the content, but please include the following attribution: *Sotaire Kwizera, the author. (2023, January 20)* 
+
+ <div class="address-line">
+  <span style="background-color: #0F2E3D; color: white; font-size: 10px;">101 Chestnut Street  / CPO: 779 / </span>
+  <span style="background-color: #0F2E3D; color: white; font-size: 10px;">Berea, KY, 40404 / </span>
+  [<span style="background-color: #0F2E3D; color: white; font-size: 10px;">(859) 979-6935</span>](tel:+1234567890)
 </div>
-  
- 
-</div>
-
 
 
 

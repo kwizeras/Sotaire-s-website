@@ -1,0 +1,95 @@
+---
+title: "Gallery"
+---
+
+<style>
+#topbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: none;
+  padding: 10px;
+}
+#topbar a {
+  margin: 0 10px;
+}
+</style>
+
+<div id="topbar">
+  <a href="#Professional">Professional</a>
+  <a href="#Casual">Casual</a>
+  <a href="#Adventure">Adventure</a>
+</div>
+
+<style>
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 10px;
+}
+
+.gallery img {
+  width: 300px;
+  height: 300px;
+}
+</style>
+
+<style>
+body {
+  background-image: url("blackblue.png");
+  background-size: 15% 100%;
+  background-repeat: no-repeat;
+  background-position: left top;
+}
+.address-line {
+  display: flex;
+  justify-content: center;
+}
+</style>
+
+## Professional <a name="Professional"></a>
+
+Write a brief description
+
+
+## Casual <a name="Casual"></a>
+
+<div class="gallery">
+  <figure>
+    <img src="casual2.jpg">
+    <figcaption>Dr. Volker and his taking a driving break on their way to Blacksburg, Virginia</figcaption>
+  </figure>
+  <figure>
+    <img src="casual4.jpg">
+    <figcaption>Caption for Image 2</figcaption>
+  </figure>
+  <figure>
+    <img src="casual5.jpg">
+    <figcaption>Caption for Image 3</figcaption>
+  </figure>
+  <figure>
+    <img src="casual3jpg.jpg">
+    <figcaption>Caption for Image 3</figcaption>
+  </figure>
+</div>
+
+
+## Adventure <a name="Adventure"></a>
+
+<div class="gallery">
+  <figure>
+    <img src="adventure1.jpg">
+    <figcaption>VT famous Duck Pond / Photo by Sotaire Kwizera </figcaption>
+  </figure>
+  <figure>
+    <img src="adventure2.jpg">
+    <figcaption>VT Duck Pond</figcaption>
+  </figure>
+ 
+</div>
+
+<div class="address-line">
+  <span style="background-color: #0F2E3D; color: white; font-size: 10px;">101 Chestnut Street  / CPO: 779 / </span>
+  <span style="background-color: #0F2E3D; color: white; font-size: 10px;">Berea, KY, 40404 / </span>
+  [<span style="background-color: #0F2E3D; color: white; font-size: 10px;">(859) 979-6935</span>](tel:+1234567890)
+</div>

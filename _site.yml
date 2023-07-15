@@ -1,13 +1,20 @@
-name: "."
-title: "Welcome"
+name: " "
+title: " "
 description: |
-  Sotaire's website
+ 
 output_dir: "docs"
 theme: my theme.css
 navbar:
-  right:
-    - text: "Projects"
+  left:
+    - text: "Home"
       href: index.html
+  right:
     - text: "Portfolio"
       href: about.html
+    - text: "Projects"
+      href: Projects.html
+    - text: "Gallery"
+      href: gallery.html
+    - text: "Terms & Conditions"
+      href: contact.html
 output: distill::distill_article

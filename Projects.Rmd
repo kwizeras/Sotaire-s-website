@@ -1,0 +1,86 @@
+---
+title: "Projects"
+---
+
+<style>
+#topbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: none;
+  padding: 10px;
+}
+#topbar a {
+  margin: 0 10px;
+}
+</style>
+
+<style>
+body {
+  background-image: url("blackblue.png");
+  background-size: 15% 100%;
+  background-repeat: no-repeat;
+  background-position: left top;
+}
+.address-line {
+  display: flex;
+  justify-content: center;
+}
+</style>
+
+
+<div id="topbar">
+  <a href="#project-1">Project 1</a>
+  <a href="#project-2">Project 2</a>
+  <a href="#project-3">Project 3</a>
+  <a href="#project-4">Project 4</a>
+</div>
+
+
+
+<style>
+body {
+  background-image: url("blackblue.png");
+  background-size: 15% 100%;
+  background-repeat: no-repeat;
+  background-position: left top;
+}
+</style>
+
+## Project 1 <a name="project-1"></a>
+
+Write a brief description or provide more information about Project 1 here.
+
+## Project 2 <a name="project-2"></a>
+
+Write a brief description or provide more information about Project 2 here.
+
+## Project 3 <a name="project-3"></a>
+
+Write a brief description or provide more information about Project 3 here.
+
+## Project 4 <a name="project-4"></a>
+
+Write a brief description or provide more information about Project 4 here.
+
+ <div class="address-line">
+  <span style="background-color: #0F2E3D; color: white; font-size: 10px;">101 Chestnut Street  / CPO: 779 / </span>
+  <span style="background-color: #0F2E3D; color: white; font-size: 10px;">Berea, KY, 40404 / </span>
+  [<span style="background-color: #0F2E3D; color: white; font-size: 10px;">(859) 979-6935</span>](tel:+1234567890)
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
