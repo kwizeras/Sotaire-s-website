@@ -1,6 +1,5 @@
 ---
 title: "Portfolio"
-
 ---
 
 ```{r setup, include=FALSE}
