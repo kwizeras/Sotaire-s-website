@@ -37,9 +37,9 @@ html {
 /*-- ARTICLE METADATA --*/
 d-byline {
   --heading-size:    0.6rem;
-  --heading-color:   rgba(0, 0, 0, 0.5);
+  --heading-color:   	#000000;
   --body-size:       0.8rem;
-  --body-color:      rgba(0, 0, 0, 0.8);
+  --body-color:      	#000000;
 }
 
 /*-- ARTICLE TABLE OF CONTENTS --*/
@@ -61,17 +61,17 @@ d-appendix {
 
 .distill-site-header {
   --title-size:       30px;
-  --text-color:       rgba(255, 255, 255, 0.8);
+  --text-color:       #001eff;
   --text-size:        15px;
   --hover-color:      red;
-  --bkgd-color:       #0F2E3D;
+  --bkgd-color:       #000601 ;
 }
 
 .distill-site-footer {
-  --text-color:       rgba(255, 255, 255, 0.8);
+  --text-color:       #001eff;
   --text-size:        15px;
   --hover-color:      red;
-  --bkgd-color:      456990;
+  --bkgd-color:      #000601 ;
 }
 
 /*-- Additional custom styles --*/
