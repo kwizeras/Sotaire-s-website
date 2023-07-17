@@ -22,7 +22,7 @@ title: "Terms & Conditions"
 
 <style>
 body {
-  background-image: url("images/blackblue.png");
+  background-image: url("_site/blackblue.png");
   background-size: 15% 100%;
   background-repeat: no-repeat;
   background-position: left top;

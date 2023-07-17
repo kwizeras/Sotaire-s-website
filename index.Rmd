@@ -16,7 +16,7 @@ site: distill::distill_website
 
 <style>
 body {
-  background-image: url("images/data.jpg");
+  background-image: url("_site/data.jpg");
   background-size: 41.7% 100%;
   background-repeat: no-repeat;
   background-position: left top;
@@ -43,7 +43,7 @@ Major: Economics / Computer Science
 
 Concentration: Data analytics and Modeling
 
-<img src="images/mtr2.webp" alt="Sotaire Kwizera" width="110" height="110">
+<img src="_site/mtr2.webp" alt="Sotaire Kwizera" width="110" height="110">
 
 
 
