@@ -49,7 +49,21 @@ body {
 
 ## Professional <a name="Professional"></a>
 
-Write a brief description
+<div class="gallery">
+  <figure>
+    <img src="images/professional4.jpg">
+    <figcaption>My first day at Virginia Tech in Blacksburg, VA / Photo by Sareth M.</figcaption>
+  </figure>
+  <figure>
+    <img src="images/professional3.jpg">
+    <figcaption>Me at Microsoft headquarters in  Reston, VA  photo by Ari T.</figcaption>
+  </figure>
+  <figure>
+    <img src="images/professional2.jpg">
+    <figcaption>Another picture at Microsoft / photo by Ari T.</figcaption>
+  </figure>
+  
+</div>
 
 
 ## Casual <a name="Casual"></a>
@@ -57,19 +71,23 @@ Write a brief description
 <div class="gallery">
   <figure>
     <img src="images/casual2.jpg">
-    <figcaption>Dr. Volker and his taking a driving break on their way to Blacksburg, Virginia</figcaption>
-  </figure>
-  <figure>
-    <img src="images/casual4.jpg">
-    <figcaption>Caption for Image 2</figcaption>
+    <figcaption>Dr. Volker and his students taking a driving break on their way to Blacksburg, Virginia / photo by Sotaire K.</figcaption>
   </figure>
   <figure>
     <img src="images/casual5.jpg">
-    <figcaption>Caption for Image 3</figcaption>
+    <figcaption>My teammates at the summer 2023 DSPG proogram</figcaption>
   </figure>
   <figure>
     <img src="images/casual3jpg.jpg">
-    <figcaption>Caption for Image 3</figcaption>
+    <figcaption>Me chilling at the alumni field in a Berea College in Berea, KY / photo by Sotaire K.</figcaption>
+  </figure>
+  <figure>
+    <img src="images/casual6.jpg">
+    <figcaption>Me multi-tasking at Maccomas Gym at Virginia Tech in Blacksburg, VA / photo by Sotaire K.</figcaption>
+  </figure>
+  <figure>
+    <img src="images/casual7.jpg">
+    <figcaption>Me contemplating Washington DC from a building roof in Arlington, VA / photo by Riya P.</figcaption>
   </figure>
 </div>
 
@@ -79,17 +97,20 @@ Write a brief description
 <div class="gallery">
   <figure>
     <img src="images/adventure1.jpg">
-    <figcaption>VT famous Duck Pond / Photo by Sotaire Kwizera </figcaption>
+    <figcaption>VT famous Duck Pond / photo by Sotaire K. </figcaption>
   </figure>
   <figure>
-    <img src="images/adventure2.jpg">
-    <figcaption>VT Duck Pond</figcaption>
+    <img src="images/adventure3.jpg">
+    <figcaption> A picture from my evening stroll around Arlington streets, VA / photo by Sotaire K. </figcaption>
+  </figure>
+   <figure>
+    <img src="images/adventure5.jpg">
+    <figcaption> Me 15 meters underground in a cave somewhere in Blue Ridge Mountains, VA  . </figcaption>
   </figure>
  
 </div>
-
 <div class="address-line">
   <span style="background-color: #0F2E3D; color: white; font-size: 10px;">101 Chestnut Street  / CPO: 779 / </span>
   <span style="background-color: #0F2E3D; color: white; font-size: 10px;">Berea, KY, 40404 / </span>
-  [<span style="background-color: #0F2E3D; color: white; font-size: 10px;">(859) 979-6935</span>](tel:+1234567890)
+  [<span style="background-color: #0F2E3D; color: white; font-size: 10px;">(859) 979-6935</span>](tel:+18599796935)
 </div>

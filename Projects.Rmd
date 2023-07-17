@@ -66,7 +66,7 @@ Write a brief description or provide more information about Project 4 here.
  <div class="address-line">
   <span style="background-color: #0F2E3D; color: white; font-size: 10px;">101 Chestnut Street  / CPO: 779 / </span>
   <span style="background-color: #0F2E3D; color: white; font-size: 10px;">Berea, KY, 40404 / </span>
-  [<span style="background-color: #0F2E3D; color: white; font-size: 10px;">(859) 979-6935</span>](tel:+1234567890)
+  [<span style="background-color: #0F2E3D; color: white; font-size: 10px;">(859) 979-6935</span>](tel:+18599796935)
 </div>
 
 
