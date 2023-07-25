@@ -19,13 +19,11 @@ knitr::opts_chunk$set(echo = FALSE)
 }
 </style>
 <div id="topbar">
-  
   <a href="#Education">Education</a>
   <a href="#Work-Experience">Work Experience</a>
   <a href="#Extracurricular-Activities">Extracurricular Activities</a>
   <a href="#Skills">Skills</a>
-  <a href="_site/Sotaire's_2_Résumé .pdf" download>Résumé (PDF)</a>
-  https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:bad54b0b-2a12-3eb6-973f-4b9ac1253f71
+  <a href="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:bad54b0b-2a12-3eb6-973f-4b9ac1253f71">Résumé (pdf)</a>
 </div>
 
 <style>
