@@ -41,7 +41,7 @@ body {
 <style>
 body {
   background-image: url("images/blackblue.png");
-  background-size: 15% 100%;
+  background-size: 10% 100%;
   background-repeat: no-repeat;
   background-position: left top;
 }
@@ -49,18 +49,18 @@ body {
 
 ## Project 1 <a name="project-1"></a>
 
-**Title:** Data science research 
+**Title:** Data science research
 
 Research questions: Association between Prenatal Exposure to Flooding and Child Health Outcomes: Evidence from Bangladesh​
 
-**Description** 
+**Description**
 
-During our 10-week DSPG program, my team's objective was to complete a preliminary study of prenatal exposure to flooding and child health outcomes. We accomplished this by combining flood statistics, from remotely sensed satellite data, with household-level survey data to produce a collection of descriptive statistics detecting trends. This allowed us to gain a comprehensive understanding of how flooding impacts pregnant and their children. All our findings were finally compiled into a into interactive Shiny App web dashboard for easy public access on the web. 
+During our 10-week DSPG program, my team's objective was to complete a preliminary study of prenatal exposure to flooding and child health outcomes. We accomplished this by combining flood statistics, from remotely sensed satellite data, with household-level survey data to produce a collection of descriptive statistics detecting trends. This allowed us to gain a comprehensive understanding of how flooding impacts pregnant and their children. All our findings were finally compiled into a into interactive Shiny App web dashboard for easy public access on the web.
 
 
-**Tools Used** 
+**Tools Used**
 
->> * R Studio 
+>> * R Studio
 
 >> * Stata
 
@@ -77,7 +77,7 @@ During our 10-week DSPG program, my team's objective was to complete a prelimina
 
 ## Project 2 <a name="project-2"></a>
 
-**Title:** My Personal Website 
+**Title:** My Personal Website
 
 **Description**
 
@@ -89,7 +89,7 @@ Having my Portfolio out there on the web: Rather than merely telling the world w
 
 **Tools Used**
 
->> * R Studio 
+>> * R Studio
 
 >> * HTML
 
@@ -103,7 +103,7 @@ Having my Portfolio out there on the web: Rather than merely telling the world w
 
 ## Project 3 <a name="project-3"></a>
 
-**Title** 
+**Title**
 
 **Description**
 
