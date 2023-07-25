@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = FALSE)
   <a href="#Work-Experience">Work Experience</a>
   <a href="#Extracurricular-Activities">Extracurricular Activities</a>
   <a href="#Skills">Skills</a>
-  <a href="Sotaire's_2 Resume .pdf" download>Résumé/pdf</a> <!-- Added the link to your PDF -->
+  <a href="_site/Sotaire's_2 Resume .pdf" download>Résumé/pdf</a> <!-- Added the link to your PDF -->
 </div>
 
 <style>
