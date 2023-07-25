@@ -18,3 +18,6 @@ navbar:
     - text: "Terms & Conditions"
       href: contact.html
 output: distill::distill_article
+# includes: 
+# in_header: path/to/viewport-meta.html
+
