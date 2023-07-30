@@ -46,7 +46,7 @@ body {
 
 **Concentration:** Models & Methods
 
-**Relevant Courses:** Econometrics, Applied Statistics, Data Structures, Calculus I&II, Differential Equations, Intermediate Macroeconomics, International Trade and Policy
+**Relevant Courses:** Data Structures, Applied Statistics, Econometrics, Software Design & Implement, Calculus I&II, International Trade & Policy, Intermediate Macroeconomics
 
 **Expected Graduation:** May 2025
 
@@ -62,9 +62,9 @@ body {
 
 > **DSPG Program at Virginia Tech - Blacksburg, VA**
 
- >> * Did research on ..
- >> * Did
- >> * Did
+ >> * Completed a 10-weeks research project on the effect of flooding in Bangladesh with as part of a team of 5 undergrad and grad students. 
+ >> * Cleaned and reshaped the Bangladesh Integrated Household Survey (BIHS) data 
+ >> * Used GEE and Python to get access, compile and visualize satellite flood and rainfall data from Sentinel 1, the Global Flood Database and CHIRPS
 
 **Teaching Assistant**
 
@@ -72,7 +72,8 @@ body {
 
  >> * Tutored 25 students in principles of Microeconomics by helping them understand concepts taught in class, complete homework, and prepare for exams
  >> * Graded homework assignments using the learning management system, Moodle, giving students feedback and helping reinforce course concepts
- >> *	Hosted two midterm review sessions to re-teach and strengthen students’ knowledge before midterm exams 
+ >> * Assisted in putting together class material and quizzes and homework for principles of Microeconomics class 
+ >> *	Lead workshops about previous and new skills necessary for students to do better on their final projects/ papers 
 
 **Office Assistant**
 
@@ -95,27 +96,23 @@ body {
 >> *	Organized weekly Tanganyika beach cleanup and annual tree-planting campaigns to promote environmentalism in Bujumbura
 >> *	Taught recycling to local community members to promote healthy waste disposal methods in the community
 
-> **President, Xaveri Movement – Burundi** 	
-
->> *	Led a charitable initiative to provide necessities (food, hygiene supplies, clothing) and home repairs to 10+ families in needy conditions
- 
 
 ## Skills <a name="Skills"></a>
 
-**Technical:** 
+**Technical Skills:** 
 
->> * R- Programming (Git/GitHub, Web scraping, Rshiny, Rmarkdown, Data manipulation and Visualization)
->> * Biginner in Python (Problem solving, familiar with Turtle library, Dictionaries, Classes, TKinter)
->> * Survey Design and Analysis (Cleaned and Reshaped the BIHS Survey data for my team project at DSPG VT)
->> * Microsoft Office Suite(Execel, PPT, Outlook, )
+>> * Proficiency in R:  Familiar with data manipulation, visualization and presentation using Tydiverse, Plotly, Leaflet, Shiny packages,
+>> * Intermediate in Python: Familiar with inheritance, classes, TKinter, and web scraping,
+>> * Project workflow management: Familiar Git and GitHub,
+>> * Geospatial analysis: Accessing and compiling remotely sensed data using Google Earth Engine and visualizing them in R or Python.
 
-**Languages:** 
+**Soft Skills:** 
 
->> * Full Proficiency: English, French,
->> * Elementary Proficiency: Swahili,
->> * Native: Kirundi/Kinyarwanda
+>> * Presentation skills: Presented and communicate goals for technical projects to government and academic officials,
+>> * Technical reading: Conducted literature Review on Using climate data to conduct policy analysis,
+>> * Languages: English, French, Kirundi, and Kinyarwanda (Full Proficiency) and Swahili (Elementary Proficiency)
 
-**Interpersonal:**
+**Interpersonal Skills:**
 
 >> * Value teamwork, 
 >> * Organized, 

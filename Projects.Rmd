@@ -49,9 +49,9 @@ body {
 
 ## Project 1 <a name="project-1"></a>
 
-**Title:** Data science research
+**Title:** Data science research - DSPG Program
 
-Research questions: Association between Prenatal Exposure to Flooding and Child Health Outcomes: Evidence from Bangladesh​
+**Team:** Sotaire Kwizera, Riya Pulla, Jade Nguyen,Nandini Das, Naveen Abedin 
 
 **Description**
 
@@ -70,9 +70,9 @@ During our 10-week DSPG program, my team's objective was to complete a prelimina
 
 **Important Links:**
 
-[Shiny App Web Dashboard]()
+[Shiny App Web Dashboard](https://aaec-vt.shinyapps.io/dspg23Bangladesh/)
 
-[GitHub Repository]()
+[GitHub Repository](https://github.com/VT-Data-Science-For-The-Public-Good/DSPG23-Bangladesh)
 
 
 ## Project 2 <a name="project-2"></a>
@@ -97,9 +97,9 @@ Having my Portfolio out there on the web: Rather than merely telling the world w
 
 **Important Links:**
 
-[Wesite]()
+[Wesite](https://sotaire-6e8-sk-1997566.netlify.app/)
 
-[GitHub Repository]()
+[GitHub Repository](https://github.com/kwizeras/Sotaire-s-website)
 
 ## Project 3 <a name="project-3"></a>
 

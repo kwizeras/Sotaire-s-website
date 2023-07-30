@@ -41,7 +41,7 @@ Berea College | Berea, KY
 
 Major: Economics / Computer Science
 
-Concentration: Data analytics and Modeling
+Concentration: Methods and Models 
 
 <img src="images/mtr2.webp" alt="Sotaire Kwizera" width="110" height="110">
 
