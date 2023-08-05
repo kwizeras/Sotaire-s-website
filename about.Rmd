@@ -62,7 +62,7 @@ body {
 
 > **DSPG Program at Virginia Tech - Blacksburg, VA**
 
- >> * Completed a 10-weeks research project on the effect of flooding in Bangladesh with as part of a team of 5 undergrad and grad students. 
+ >> * Completed a 10-weeks research project on the effect of flooding in Bangladesh with as part of a team of 3 undergrad and 2 grad students. 
  >> * Cleaned and reshaped the Bangladesh Integrated Household Survey (BIHS) data 
  >> * Used GEE and Python to get access, compile and visualize satellite flood and rainfall data from Sentinel 1, the Global Flood Database and CHIRPS
 
@@ -109,7 +109,7 @@ body {
 **Soft Skills:** 
 
 >> * Presentation skills: Presented and communicate goals for technical projects to government and academic officials,
->> * Technical reading: Conducted literature Review on Using climate data to conduct policy analysis,
+>> * Technical reading: Conducted literature Review on using climate data to conduct policy analysis,
 >> * Languages: English, French, Kirundi, and Kinyarwanda (Full Proficiency) and Swahili (Elementary Proficiency)
 
 **Interpersonal Skills:**
