@@ -55,7 +55,7 @@ body {
 
 **Description**
 
-During our 10-week DSPG program, my team's objective was to complete a preliminary study of prenatal exposure to flooding and child health outcomes. We accomplished this by combining flood statistics, from remotely sensed satellite data, with household-level survey data to produce a collection of descriptive statistics detecting trends. This allowed us to gain a comprehensive understanding of how flooding impacts pregnant and their children. All our findings were finally compiled into a into interactive Shiny App web dashboard for easy public access on the web.
+During my 10-weeks internship with the Data Science for Public Good (DSPG) program, my team and I conducted a preliminary study of prenatal exposure to flooding and child health outcomes. We accomplished this by combining flood statistics, from remotely sensed satellite data, with household-level survey data to produce a collection of descriptive statistics detecting trends. This allowed us to gain a comprehensive understanding of how flooding impacts pregnant and their children. All our findings were finally compiled into a into interactive Shiny App web dashboard for easy public access on the web.
 
 
 **Tools Used**

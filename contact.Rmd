@@ -44,13 +44,12 @@ By using our website, you acknowledge that you have read, understood, and agree 
 1. All materials on this website are common resources. 
 2. You may modify, reproduce, and distribute the content only for educational and non commercial purposes as long as you properly cite the source.
 
-    + Accepted citation: Kwizera Sotaire. "Title of the Page." Sotaire's website, Date of Publication, URL.
+    + Accepted citation: Kwizera, S. (2023, July). Sotaire’s website. https://sotaire-6e8-sk-1997566.netlify.app/.
 
 3. Your use of our website is at your own risk.
-4. We make no warranties about the accuracy, reliability, completeness of the content on our website.
+4. We make no warranties about the reliability, completeness of the content on our website.
 3. You agree not to engage in any activity that may:
 
-    + Violate any applicable laws or regulations.
     + Infringe upon the rights of others.
     + Interfere with or disrupt the operation of our website.
     + Transmit or distribute viruses or any harmful or destructive code.
