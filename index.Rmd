@@ -1,6 +1,6 @@
 ---
 title: "Sotaire Kwizera"
-image: "images/profile.jpg"
+image: "images/me.jpg"
 links:
   - label: '<i class="fab fa-linkedin"></i> LinkedIn'
     url: 'https://www.linkedin.com/in/sotaire-kw%C3%AEz%C4%93ra/ target="_blank"'
