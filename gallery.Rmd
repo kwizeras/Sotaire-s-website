@@ -89,10 +89,6 @@ body {
     <img src="images/casual6.jpg">
     <figcaption>Me multi-tasking at Maccomas Gym at Virginia Tech in Blacksburg, VA / photo by Sotaire K.</figcaption>
   </figure>
-  <figure>
-    <img src="images/casual7.jpg">
-    <figcaption>Me contemplating Washington DC from a building roof in Arlington, VA / photo by Riya P.</figcaption>
-  </figure>
 </div>
 
 
@@ -109,15 +105,12 @@ body {
   </figure>
    <figure>
     <img src="images/adventure5.jpg">
-    <figcaption> Me 15 meters underground in a cave somewhere in Blue Ridge Mountains, VA ?/ photo by Jade N. </figcaption>
+    <figcaption> Me, 100 feet underground in a cave somewhere in Blue Ridge Mountains, VA ?/ photo by Jade N. </figcaption>
   </figure>
-   <figure>
-    <img src="images/adv.png">
-    <figcaption> Me ready to conquer a towering 200-feet-tall cliff at Red River Gorge in Slade, KY/ photo by David C. </figcaption>
-  </figure>
+  
   <figure>
     <img src="images/Rock.jpeg">
-    <figcaption> Me mid my rock-climbing at Red River Gorge in Slade, KY/ photo by David C. </figcaption>
+    <figcaption> Me, mid my rock-climbing of a towering 200-feet-tall cliff at Red River Gorge in Slade, KY/ photo by David C. </figcaption>
   </figure>
  
 </div>
