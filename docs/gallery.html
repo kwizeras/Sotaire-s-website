@@ -88,32 +88,26 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   <!--radix_placeholder_meta_tags-->
-  <title> : Sotaire's portfolio</title>
-
-  <meta property="description" itemprop="description" content="A new article created using the Distill format."/>
+  <title> : Gallery</title>
 
 
-  <!--  https://schema.org/Article -->
-  <meta property="article:published" itemprop="datePublished" content="2023-10-09"/>
-  <meta property="article:created" itemprop="dateCreated" content="2023-10-09"/>
+
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content=" : Sotaire&#39;s portfolio"/>
+  <meta property="og:title" content=" : Gallery"/>
   <meta property="og:type" content="article"/>
-  <meta property="og:description" content="A new article created using the Distill format."/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:site_name" content=" "/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content=" : Sotaire&#39;s portfolio"/>
-  <meta property="twitter:description" content="A new article created using the Distill format."/>
+  <meta property="twitter:title" content=" : Gallery"/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","date","output"]}},"value":[{"type":"character","attributes":{},"value":["Sotaire's portfolio"]},{"type":"character","attributes":{},"value":["A new article created using the Distill format.\n"]},{"type":"character","attributes":{},"value":["2023-10-09"]},{"type":"character","attributes":{},"value":["distill::distill_article"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title"]}},"value":[{"type":"character","attributes":{},"value":["Gallery"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2408,7 +2402,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Sotaire's portfolio","description":"A new article created using the Distill format.","authors":[],"publishedDate":"2023-10-09T00:00:00.000-04:00"}
+{"title":"Gallery","authors":[]}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2433,17 +2427,141 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--/radix_placeholder_site_before_body-->
 
 <div class="d-title">
-<h1>Sotaire’s portfolio</h1>
+<h1>Gallery</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p><p>A new article created using the Distill format.</p></p>
+
 </div>
 
 
 <div class="d-article">
+<style>
+#topbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: none;
+  padding: 10px;
+}
+#topbar a {
+  margin: 0 10px;
+}
+</style>
+<div id="topbar">
+<p><a href="#Professional">Professional</a>
+<a href="#Casual">Casual</a>
+<a href="#Adventure">Adventure</a></p>
+</div>
+<style>
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 10px;
+}
+
+.gallery img {
+  <!-- width: 350px; -->
+  <!-- height: 300px; -->
+}
+</style>
+<style>
+body {
+  background-image: url("images/blackblue.png");
+  background-size: 10% 100%;
+  background-repeat: no-repeat;
+  background-position: left top;
+}
+.address-line {
+  display: flex;
+  justify-content: center;
+}
+</style>
+<h2 id="professional">Professional <a name="Professional"></a></h2>
+<div class="gallery">
+<figure>
+<img src="images/professional4.jpg">
+<figcaption>
+My first day at Virginia Tech in Blacksburg, VA / Photo by Sareth M.
+</figcaption>
+</figure>
+<figure>
+<img src="images/professional3.jpg">
+<figcaption>
+Me at Microsoft headquarters in Reston, VA photo by Ari T.
+</figcaption>
+</figure>
+<figure>
+<img src="images/Symp1.jpg">
+<figcaption>
+My team and I presenting at the Virginia Tech 2023 Research Symposium / photo by Melissa V.
+</figcaption>
+</figure>
+<figure>
+<img src="images/Symp5.jpg">
+<figcaption>
+My team and I posing at the Virginia Tech 2023 Research Symposium / photo by Melissa V.
+</figcaption>
+</figure>
+</div>
+<h2 id="casual">Casual <a name="Casual"></a></h2>
+<div class="gallery">
+<figure>
+<img src="images/casual2.jpg">
+<figcaption>
+Dr. Volker and his students taking a driving break on their way to Blacksburg, Virginia / photo by Sotaire K.
+</figcaption>
+</figure>
+<figure>
+<img src="images/casual5.jpg">
+<figcaption>
+My teammates at the summer 2023 DSPG proogram / photo by Riya P.
+</figcaption>
+</figure>
+<figure>
+<img src="images/casual3jpg.jpg">
+<figcaption>
+Me chilling at the alumni field in a Berea College in Berea, KY / photo by Sotaire K.
+</figcaption>
+</figure>
+<figure>
+<img src="images/casual6.jpg">
+<figcaption>
+Me multi-tasking at Maccomas Gym at Virginia Tech in Blacksburg, VA / photo by Sotaire K.
+</figcaption>
+</figure>
+</div>
+<h2 id="adventure">Adventure <a name="Adventure"></a></h2>
+<div class="gallery">
+<figure>
+<img src="images/adventure1.jpg">
+<figcaption>
+Famous Duck Pond at Virginia Tech in Blacksburg, VA / photo by Sotaire K.
+</figcaption>
+</figure>
+<figure>
+<img src="images/adventure3.jpg">
+<figcaption>
+A picture from my evening stroll around Arlington streets, VA / photo by Sotaire K.
+</figcaption>
+</figure>
+<figure>
+<img src="images/adventure5.jpg">
+<figcaption>
+Me, 100 feet underground in a cave somewhere in Blue Ridge Mountains, VA ?/ photo by Jade N.
+</figcaption>
+</figure>
+<figure>
+<img src="images/Rock.jpeg">
+<figcaption>
+Me, mid my rock-climbing of a towering 200-feet-tall cliff at Red River Gorge in Slade, KY/ photo by David C.
+</figcaption>
+</figure>
+</div>
+<div class="address-line">
 <p><span style="background-color: #0F2E3D; color: white; font-size: 10px;">101 Chestnut Street / CPO: 779 / </span>
 <span style="background-color: #0F2E3D; color: white; font-size: 10px;">Berea, KY, 40404 / </span>
 <a href="tel:+18599796935"><span style="background-color: #0F2E3D; color: white; font-size: 10px;">(859) 979-6935</span></a></p>
+</div>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->

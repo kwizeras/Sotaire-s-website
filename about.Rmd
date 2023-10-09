@@ -23,7 +23,7 @@ knitr::opts_chunk$set(echo = FALSE)
   <a href="#Work-Experience">Work Experience</a>
   <a href="#Extracurricular-Activities">Extracurricular Activities</a>
   <a href="#Skills">Skills</a>
-  <a href="https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:4cad0624-c06c-3cb0-b1fb-46edb8a0a7e8">Résumé (pdf)</a>
+  <a href="https://acrobat.adobe.com/id/urn:aaid:sc:us:8f0d8fbf-70fd-44f2-bb4c-61bfb8c0c087">Résumé (pdf)</a>
 </div>
 
 <style>
