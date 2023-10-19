@@ -7,4 +7,4 @@ Having my Portfolio out there on the web: Rather than merely telling the world w
 
 **Author:** Sotaire Kwizera
 
-**Property rights:** The content of this website is free for use as long as you follow the conditions specified in the "Terms and Conditions" page
+**Property rights:** The content of this website is free for use for educational purposes only as long as you follow the conditions specified in the "Terms and Conditions" section. 
